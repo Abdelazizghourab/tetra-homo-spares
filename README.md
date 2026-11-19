@@ -18,3 +18,4 @@ Interactive P&ID
 Stock visibility
 SAP integration
 QR code machine access
+Version 1.1
